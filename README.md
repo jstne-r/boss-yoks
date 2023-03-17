@@ -1,6 +1,6 @@
 # boss-yoks
 SHS Final Research Project
 
-A website proposal for startup business called boss yoks to increase their sales
+A website for startup business called Boss Yoks Unlimited Chicken Wings
 
 https://jstne-r.github.io/boss-yoks/
